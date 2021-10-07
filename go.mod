@@ -7,5 +7,5 @@ require (
 )
 
 replace (
-	shitanford.com/leetcode/datastruct v1.0.0 => ./dataStructure
+	shitanford.com/leetcode/datastruct v1.0.0 => ./DataStructure
 )
